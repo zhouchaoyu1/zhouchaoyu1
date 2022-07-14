@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhouchaoyu1
-- 👀 I’m interested in Java, Python
-- 🌱 I’m currently learning  Java and Mysql
+- 👀 I’m interested in Java, Go
+- 🌱 I’m currently learning  Java and Go
 - 💞️ I’m looking to collaborate on some exciting progarams 
 - 📫 How to reach me ...
 
